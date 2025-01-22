@@ -4,6 +4,7 @@ markdown file
 ## subsection
 ### subsubsection
 
+~~Blanche~~
 **Bold**
 *Italicized*
 
